@@ -24,5 +24,6 @@ python3 main.py
 This will run the main.py file, which imports the required libraries and contains the code to manipulate HEIF images.
 
 ## Note
-Replace the heic files you want inside of the heic folder.
+Create a folder inside the project repository called `heic` and store the heic files in side that folder.
 
+![alt text](./img.png)
